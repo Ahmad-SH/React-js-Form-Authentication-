@@ -1,0 +1,4 @@
+node_modules
+.eslintcache
+src/firebase/firebaseAuth.js
+.DS_Store
